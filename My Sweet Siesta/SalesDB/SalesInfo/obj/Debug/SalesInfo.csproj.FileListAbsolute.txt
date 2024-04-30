@@ -1,0 +1,71 @@
+F:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe.config
+F:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe
+F:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.pdb
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.AssemblyReference.cache
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Form1.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Properties.Resources.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.GenerateResource.cache
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.CoreCompileInputs.cache
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.exe
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.pdb
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryEntry.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmProductEntry.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomersEntry.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrdersEntry.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrderUpdateDelete.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryUpdateDelete.resources
+F:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomerSUpdateDelete.resources
+G:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe.config
+G:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe
+G:\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.pdb
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.AssemblyReference.cache
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Form1.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryEntry.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryUpdateDelete.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomersEntry.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomerSUpdateDelete.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrdersEntry.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrderUpdateDelete.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmProductEntry.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Properties.Resources.resources
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.GenerateResource.cache
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.CoreCompileInputs.cache
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.exe
+G:\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.pdb
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe.config
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.exe
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\SalesInfo.pdb
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.AssemblyReference.cache
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Form1.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryEntry.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCategoryUpdateDelete.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomersEntry.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmCustomerSUpdateDelete.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrderInformationReport.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrdersEntry.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmOrderUpdateDelete.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmProductEntry.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.frmProductUpdateDelete.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.Properties.Resources.resources
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.GenerateResource.cache
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.CoreCompileInputs.cache
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.exe
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.pdb
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\bin\Debug\stdole.dll
+C:\Users\KANIZ FATEMA SHAMMY\Desktop\ADO Project\SalesDB\SalesInfo\obj\Debug\SalesInfo.csproj.CopyComplete
